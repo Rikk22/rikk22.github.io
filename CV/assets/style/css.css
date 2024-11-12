@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(#E88D67 0%,#F3F7EC 40%,#006989 80%, #005C78 100%);
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+    .profileimage{
+    width: 200px;
+}
